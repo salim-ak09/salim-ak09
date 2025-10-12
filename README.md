@@ -47,9 +47,9 @@
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
-| 🔮 Mega Trader | AI-powered trading Telegram bot with advanced analytics and automation | Node.js, MySQL, Telegram API, AI/ML | In progress |
-| 🧾 e-Store | The E-Store Management System is your ultimate, high-octane web platform to supercharge online store operations! 🌟 This sleek, modern solution blends powerful administration, seamless employee workflows, and delightful client experiences into one dynamic package. From managing products to diving into advanced analytics, this system is packed with cutting-edge features, vibrant notifications (Email via PHPMailer, Telegram), and ironclad security with CAPTCHA and Telegram OTP. Get ready to revolutionize your e-store! 💥 | PHP, JS, HTML, CSS, MySQL | Completed ✅ |
-| 🛡️ Web Protection Tool | Website security: clone, scrape & automated attack protection | TBD | Prototype |
+| 🔮 Mega Trader | AI-powered trading Telegram bot with advanced analytics and automation | Node.js, MySQL, Telegram API, AI/ML | <img src="https://cdn-icons-png.flaticon.com/128/15686/15686808.png" width="100" />  |
+| 🧾 e-Store | The E-Store Management System is your ultimate, high-octane web platform to supercharge online store operations! 🌟 This sleek, modern solution blends powerful administration, seamless employee workflows, and delightful client experiences into one dynamic package. From managing products to diving into advanced analytics, this system is packed with cutting-edge features, vibrant notifications (Email via PHPMailer, Telegram), and ironclad security with CAPTCHA and Telegram OTP. Get ready to revolutionize your e-store! 💥 | PHP, JS, HTML, CSS, MySQL | <img src="https://cdn-icons-png.flaticon.com/128/14018/14018771.png" width="100" /> |
+| 🛡️ Web Protection Tool | Website security: clone, scrape & automated attack protection | TBD | <img src="https://cdn-icons-png.flaticon.com/128/2421/2421271.png" width="100" /> |
 
 ---
 
