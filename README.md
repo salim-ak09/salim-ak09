@@ -48,7 +48,7 @@
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
 | 🔮 Mega Trader | AI-powered trading Telegram bot with advanced analytics and automation | Node.js, MySQL, Telegram API, AI/ML | In progress |
-| 🧾 TN-Store | Inventory, employee management & e-commerce with QR/barcode & image recognition | PHP, JS, HTML, CSS, MySQL | In progress |
+| 🧾 e-Store | The E-Store Management System is your ultimate, high-octane web platform to supercharge online store operations! 🌟 This sleek, modern solution blends powerful administration, seamless employee workflows, and delightful client experiences into one dynamic package. From managing products to diving into advanced analytics, this system is packed with cutting-edge features, vibrant notifications (Email via PHPMailer, Telegram), and ironclad security with CAPTCHA and Telegram OTP. Get ready to revolutionize your e-store! 💥 | PHP, JS, HTML, CSS, MySQL | Completed ✅ |
 | 🛡️ Web Protection Tool | Website security: clone, scrape & automated attack protection | TBD | Prototype |
 
 ---
