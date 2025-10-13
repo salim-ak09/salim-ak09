@@ -45,13 +45,16 @@
 
 ## ⚡ Featured Projects
 
-| Project | Description | Tech | Status |
-|--------|-------------|------|--------|
-| 🔮 Mega Trader | AI-powered trading Telegram bot with advanced analytics and automation | Node.js, MySQL, Telegram API, AI/ML | <img src="https://cdn-icons-png.flaticon.com/128/15686/15686808.png" width="100" />  |
-| 🧾 e-Store | The E-Store Management System is your ultimate, high-octane web platform to supercharge online store operations! 🌟 This sleek, modern solution blends powerful administration, seamless employee workflows, and delightful client experiences into one dynamic package. From managing products to diving into advanced analytics, this system is packed with cutting-edge features, vibrant notifications (Email via PHPMailer, Telegram), and ironclad security with CAPTCHA and Telegram OTP. Get ready to revolutionize your e-store! 💥 | PHP, JS, HTML, CSS, MySQL | <img src="https://cdn-icons-png.flaticon.com/128/14018/14018771.png" width="100" /> |
-| 🛡️ Web Protection Tool | Website security: clone, scrape & automated attack protection | TBD | <img src="https://cdn-icons-png.flaticon.com/128/2421/2421271.png" width="100" /> |
+| Project | Description | Tech | Visibility | Status |
+|--------|-------------|------|-------------|--------|
+| 🧾 **e-Store** | The E-Store Management System is your ultimate, high-octane web platform to supercharge online store operations! 🌟 This sleek, modern solution blends powerful administration, seamless employee workflows, and delightful client experiences into one dynamic package. From managing products to diving into advanced analytics, this system is packed with cutting-edge features, vibrant notifications (Email via PHPMailer, Telegram), and ironclad security with CAPTCHA and Telegram OTP. 💥 | PHP, JS, HTML, CSS, MySQL | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" /> | <img src="https://cdn-icons-png.flaticon.com/128/14018/14018771.png" width="100" /> |
+| 📱 **ADB Control Panel** | The ADB Control Panel is an advanced, web-based interface meticulously crafted to streamline interactions with Android devices via the Android Debug Bridge (ADB). It offers an intuitive GUI that empowers developers, testers, and automation enthusiasts to execute a wide array of ADB operations without the complexities of command-line inputs — perfect for efficient debugging, comprehensive testing, and seamless Android automation. | Node.js, Electron, ADB, HTML/CSS/JS | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" /> | <img src="https://cdn-icons-png.flaticon.com/128/14018/14018771.png" width="100" /> |
+| 🔮 **Mega Trader** | AI-powered trading Telegram bot with advanced analytics and automation | Node.js, MySQL, Telegram API, AI/ML | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" />  | <img src="https://cdn-icons-png.flaticon.com/128/15686/15686808.png" width="100" /> |
+| 🛡️ **Web Protection Tool** | Website security: clone, scrape & automated attack protection | TBD | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" /> | <img src="https://cdn-icons-png.flaticon.com/128/2421/2421271.png" width="100" /> |
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
