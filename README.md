@@ -2,83 +2,92 @@
 
 ### 🌐 Full-Stack Web Developer | 🛡️ Advanced Penetration Tester
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdrMTlndjZmYmU4cGx2cHJ0NG4xZjF0emtuZTg1MjdnZnJubjY3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif" width="280">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdrMTlndjZmYmU4cGx2cHJ0NG4xZjF0emtuZTg1MjdnZnJubjY3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif" width="280" alt="Hacker animation">
 
 ---
 
 ## 🕶️ About Me
-- 🔍 Advanced penetration tester: offensive security, exploit development & reporting.  
-- 💻 Full-stack web developer building secure, high-performance web apps.  
-- 🎯 **Experience:** 9 years across penetration testing & web development.  
-- 🛠️ **Goal:** Build, break, and harden web systems for security and resilience.
+- 🧠 9+ years of experience in web development and penetration testing.  
+- 🕵️‍♂️ Offensive security expert: exploit dev, vulnerability research, red teaming.  
+- 💻 Full-stack engineer building robust, secure web systems from front to back.  
+- 🚀 **Mission:** Design, defend, and dominate the web — through code & security.  
+- ⚙️ Constantly learning new exploits, frameworks, and ways to break limits.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🧰 Tech Arsenal
 
 ### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 🛡️ Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37F20?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3B5998?style=for-the-badge&logo=metasploit&logoColor=white)
+### 🛡️ Offensive Security
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F37F20?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-3B5998?style=for-the-badge&logo=metasploit&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
 
 ## ⚡ Featured Projects
 
 | Project | Description | Tech | Visibility | Status |
-|--------|-------------|------|-------------|--------|
-| 🧾 **e-Store** | The E-Store Management System is your ultimate, high-octane web platform to supercharge online store operations! 🌟 This sleek, modern solution blends powerful administration, seamless employee workflows, and delightful client experiences into one dynamic package. From managing products to diving into advanced analytics, this system is packed with cutting-edge features, vibrant notifications (Email via PHPMailer, Telegram), and ironclad security with CAPTCHA and Telegram OTP. 💥 | PHP, JS, HTML, CSS, MySQL | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" /> | <img src="https://cdn-icons-png.flaticon.com/128/14018/14018771.png" width="100" /> |
-| 📱 **ADB Control Panel** | The ADB Control Panel is an advanced, web-based interface meticulously crafted to streamline interactions with Android devices via the Android Debug Bridge (ADB). It offers an intuitive GUI that empowers developers, testers, and automation enthusiasts to execute a wide array of ADB operations without the complexities of command-line inputs — perfect for efficient debugging, comprehensive testing, and seamless Android automation. | Node.js, Electron, ADB, HTML/CSS/JS | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" /> | <img src="https://cdn-icons-png.flaticon.com/128/14018/14018771.png" width="100" /> |
-| 🔮 **Mega Trader** | AI-powered trading Telegram bot with advanced analytics and automation | Node.js, MySQL, Telegram API, AI/ML | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" />  | <img src="https://cdn-icons-png.flaticon.com/128/15686/15686808.png" width="100" /> |
-| 🛡️ **Web Protection Tool** | Website security: clone, scrape & automated attack protection | TBD | <img src="https://cdn-icons-png.flaticon.com/128/9068/9068751.png" width="40" /> | <img src="https://cdn-icons-png.flaticon.com/128/2421/2421271.png" width="100" /> |
+|----------|-------------|------|-------------|--------|
+| 🧾 **E-Store Management System** | A dynamic, secure, and scalable platform integrating analytics, PHPMailer, Telegram OTP, and CAPTCHA-secured authentication. | PHP, MySQL, JS, HTML, CSS | 🔒 Private | ✅ Production |
+| 📱 **ADB Control Panel** | Electron-based GUI for seamless ADB automation — full Android control from web. | Node.js, Electron, ADB | 🔒 Private | 🚀 Stable |
+| 🔮 **Mega Trader** | AI-powered Telegram trading bot for analytics and smart automation. | Node.js, MySQL, AI/ML | 🔒 Private | ⚙️ Active |
+| 🛡️ **Web Protection Tool** | Defensive web framework for attack detection and response simulation. | PHP, JS | 🔒 Private | 🔬 Testing |
 
 ---
 
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salim-ak09&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-ak09&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salim-ak09&show_icons=true&theme=radical&count_private=true&&hide_border=true" height="160px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salim-ak09&layout=compact&theme=radical&count_private=true&hide_border=true" height="160px" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salim-ak09&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=salim-ak09&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://streak-stats.demolab.com?user=salim-ak09&theme=radical&hide_border=true" height="160px" alt="GitHub Streak"/>
 </p>
 
----
-
-## 📡 Connect With Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salim-ak09&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
 
 <p align="center">
-  <a href="https://x.com/salimak09" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/salim0.9" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"></a>
-  <a href="https://ctf.hackthebox.com/user/profile/886778" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"></a>
-  <a href="https://t.me/Devone09" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salim-ak09&bg_color=141321&color=E02C6D&line=E02C6D&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-⚡ *“Build it secure. Break it responsibly. Share the knowledge.”*
+## 🛰️ Connect with Me
+
+<p align="center">
+  <a href="https://x.com/salimak09"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/salim0.9"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+  <a href="https://ctf.hackthebox.com/user/profile/886778"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://t.me/Devone09"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <em>“Build it secure. Break it responsibly. Share the knowledge.”</em> ⚡
+</p>
