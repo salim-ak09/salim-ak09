@@ -50,9 +50,9 @@
 | Project | Description | Tech | Visibility | Status |
 |----------|-------------|------|-------------|--------|
 | 🧾 **E-Store Management System** | A dynamic, secure, and scalable platform integrating analytics, PHPMailer, Telegram OTP, and CAPTCHA-secured authentication. | PHP, MySQL, JS, HTML, CSS | 🔒 Private | ✅ Production |
-| 📱 **ADB Control Panel** | Electron-based GUI for seamless ADB automation — full Android control from web. | Node.js, Electron, ADB | 🔒 Private | 🚀 Stable |
-| 🔮 **Mega Trader** | AI-powered Telegram trading bot for analytics and smart automation. | Node.js, MySQL, AI/ML | 🔒 Private | ⚙️ Active |
-| 🛡️ **Web Protection Tool** | Defensive web framework for attack detection and response simulation. | PHP, JS | 🔒 Private | 🔬 Testing |
+| 📱 **ADB Control Panel** | Electron-based GUI for seamless ADB automation — full Android control from web. | Node.js, Electron, ADB | 🔒 Private | ✅ Production |
+| 🔮 **Mega Trader** | AI-powered Telegram trading bot for analytics and smart automation. | Node.js, MySQL, AI/ML | 🔒 Private | ✅ Production |
+| 🛡️ **Web Protection Tool** | Defensive web framework for attack detection and response simulation. | PHP, JS | 🔒 Private | 🔬 Testing... |
 
 ---
 
